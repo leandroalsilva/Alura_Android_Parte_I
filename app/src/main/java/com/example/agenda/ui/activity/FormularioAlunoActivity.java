@@ -1,5 +1,5 @@
 package com.example.agenda.ui.activity;
-
+//Activity que cadastra um aluno(a) e adiciona-o(a)
 import android.os.Bundle;
 import android.view.View;
 import android.widget.EditText;

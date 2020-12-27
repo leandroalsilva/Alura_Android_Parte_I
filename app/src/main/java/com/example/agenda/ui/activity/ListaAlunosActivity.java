@@ -1,5 +1,5 @@
 package com.example.agenda.ui.activity;
-
+//Activity que mostra a lista de alunos(as) existentes
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
@@ -14,7 +14,6 @@ import com.example.agenda.dao.AlunoDAO;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 
 public class ListaAlunosActivity extends AppCompatActivity {
-
     public static final String TITULO_APPBAR = "Lista de Alunos";
     private final AlunoDAO dao = new AlunoDAO();
 
